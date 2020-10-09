@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hello, my name is Allan");
         //Rufino comment
         System.out.println("Hello Allan, my name is Rufino!");
+        //Daniel's comment
+        System.out.println("Hello Allan, my name is Daniel!");
     }
 }
